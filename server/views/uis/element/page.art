@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <!-- import CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+</head>
+<body>
+  <div id="app">
+      {{if $data.app}}
+        {{each $data.app}}
+          {{if $value.children}}
+            {{each $value.children}}{{ include './'+$value.name+'.art' $value }}{{/each}}
+          {{/if}}
+        {{/each}}
+      {{/if}}
+  </div>
+</body>
+  <!-- import Vue before Element -->
+  <script src="https://unpkg.com/vue/dist/vue.js"></script>
+  <!-- import JavaScript -->
+  <script src="https://unpkg.com/element-ui/lib/index.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/1.12.1/jquery.min.js"></script>
+  <script src="/static/server/dataOpera.js"></script>
+  <script>
+    new Vue({
+      el: '#app',
+      data: function() {
+        return {
+          {{if $data.data}}
+            {{each $data.data}}
+              {{$value.name}}: {
+                {{each $value.fields}}
+                  {{$value.name}}:'',
+                {{/each}}
+              },
+              {{$value.name}}_list:[],
+            {{/each}}
+          {{/if}}
+        }
+      },
+      created: function() {
+       {{if $data.data}}
+          {{each $data.data}}
+          this["get_{{$value.name}}_list"]()
+         {{/each}}
+        {{/if}}
+      },
+      methods: {
+        {{if $data.data}}
+          {{each $data.data}}
+            get_{{$value.name}}_list: function() { dataOpera.queryData('{{$value.type}}', 'all', '{{$value.name}}', {{@ $imports.JSON.stringify($value.fields)}}, this) }
+          {{/each}}
+        {{/if}}
+      }
+    })
+  </script>
+</html>

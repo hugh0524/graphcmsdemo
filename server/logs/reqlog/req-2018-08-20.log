@@ -1,0 +1,470 @@
+[2018-08-20T15:36:46.468] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T15:36:46.554] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T15:36:46.558] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T15:36:46.561] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T15:36:46.565] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T15:36:46.570] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T15:36:46.573] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T15:36:46.576] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T15:36:46.582] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T15:36:46.628] [INFO] dao.baseDao - query-all:m_systems
+[2018-08-20T15:36:52.716] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T15:36:52.718] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T15:36:52.720] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T15:36:52.722] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T15:36:52.724] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T15:36:52.727] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T15:36:52.730] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T15:36:52.736] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T15:36:52.738] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T15:36:52.762] [INFO] dao.baseDao - query-all:m_systems
+[2018-08-20T15:41:32.316] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T15:41:32.319] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T15:41:32.330] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T15:41:32.333] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T15:41:32.335] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T15:41:32.337] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T15:41:32.339] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T15:41:32.340] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T15:41:32.342] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T15:42:04.487] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T15:42:04.489] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T15:42:04.491] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T15:42:04.498] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T15:42:04.501] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T15:42:04.502] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T15:42:04.504] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T15:42:04.505] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T15:42:04.507] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T15:42:04.917] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T15:42:04.923] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T15:42:04.925] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T15:42:04.926] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T15:42:04.933] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T15:42:04.937] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T15:42:04.940] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T15:42:04.943] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T15:42:04.948] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T15:46:02.383] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T15:46:02.393] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T15:46:02.396] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T15:46:02.399] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T15:46:02.413] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T15:46:02.415] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T15:46:02.417] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T15:46:02.419] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T15:46:02.422] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T16:50:30.729] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T16:50:30.731] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T16:50:30.733] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T16:50:30.734] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T16:50:30.736] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T16:50:30.739] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T16:50:30.741] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T16:50:30.743] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T16:50:30.745] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T16:50:30.769] [INFO] dao.baseDao - query-page:m_components
+[2018-08-20T16:50:30.784] [INFO] dao.baseDao - 0
+[2018-08-20T16:50:30.785] [INFO] dao.baseDao - { page: 0, limit: 10, list: [], total: 0 }
+[2018-08-20T16:53:17.153] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T16:53:17.154] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T16:53:17.156] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T16:53:17.157] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T16:53:17.159] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T16:53:17.162] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T16:53:17.163] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T16:53:17.164] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T16:53:17.166] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T16:53:17.184] [INFO] dao.baseDao - query-page:m_components
+[2018-08-20T16:53:17.186] [INFO] dao.baseDao - 0
+[2018-08-20T16:53:17.186] [INFO] dao.baseDao - { page: 0, limit: 10, list: [], total: 0 }
+[2018-08-20T17:34:55.086] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T17:34:55.106] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T17:34:55.111] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T17:34:55.119] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T17:34:55.124] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T17:34:55.128] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T17:34:55.132] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T17:34:55.135] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T17:34:55.140] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T17:35:15.164] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T17:35:15.178] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T17:35:15.187] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T17:35:15.195] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T17:35:15.214] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T17:35:15.216] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T17:35:15.227] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T17:35:15.231] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T17:35:15.232] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T17:37:30.831] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T17:37:30.834] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T17:37:30.835] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T17:37:30.837] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T17:37:30.847] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T17:37:30.853] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T17:37:30.856] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T17:37:30.858] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T17:37:30.860] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T17:37:30.883] [INFO] dao.baseDao - query-page:m_components
+[2018-08-20T17:37:30.904] [INFO] dao.baseDao - 0
+[2018-08-20T17:37:30.904] [INFO] dao.baseDao - { page: 0, limit: 10, list: [], total: 0 }
+[2018-08-20T17:59:16.349] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T17:59:16.354] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T17:59:16.357] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T17:59:16.359] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T17:59:16.366] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T17:59:16.373] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T17:59:16.375] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T17:59:16.393] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T17:59:16.398] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T17:59:16.433] [INFO] dao.baseDao - query-page:m_components
+[2018-08-20T17:59:16.436] [INFO] dao.baseDao - 0
+[2018-08-20T17:59:16.437] [INFO] dao.baseDao - { page: 0, limit: 10, list: [], total: 0 }
+[2018-08-20T18:12:56.560] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T18:12:56.563] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T18:12:56.565] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T18:12:56.566] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T18:12:56.569] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T18:12:56.571] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T18:12:56.573] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T18:12:56.574] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T18:12:56.576] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T18:12:56.602] [INFO] dao.baseDao - query-all:m_theme
+[2018-08-20T18:14:18.123] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T18:14:18.125] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T18:14:18.126] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T18:14:18.127] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T18:14:18.128] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T18:14:18.129] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T18:14:18.130] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T18:14:18.131] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T18:14:18.133] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T18:14:18.146] [INFO] dao.baseDao - query-all:m_theme
+[2018-08-20T18:26:45.803] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T18:26:45.806] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T18:26:45.810] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T18:26:45.812] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T18:26:45.813] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T18:26:45.814] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T18:26:45.816] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T18:26:45.817] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T18:26:45.818] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T18:26:46.051] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T18:26:46.053] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T18:26:46.055] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T18:26:46.056] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T18:26:46.058] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T18:26:46.060] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T18:26:46.062] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T18:26:46.063] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T18:26:46.067] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T18:58:53.115] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T18:58:53.120] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T18:58:53.129] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T18:58:53.135] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T18:58:53.137] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T18:58:53.139] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T18:58:53.142] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T18:58:53.144] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T18:58:53.146] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T18:58:53.460] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T18:58:53.463] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T18:58:53.468] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T18:58:53.470] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T18:58:53.473] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T18:58:53.482] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T18:58:53.488] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T18:58:53.490] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T18:58:53.492] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T19:06:31.685] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T19:06:31.698] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T19:06:31.704] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T19:06:31.705] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T19:06:31.712] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T19:06:31.715] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T19:06:31.717] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T19:06:31.718] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T19:06:31.721] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T19:06:31.971] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T19:06:31.978] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T19:06:31.982] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T19:06:31.985] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T19:06:31.990] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T19:06:31.995] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T19:06:32.000] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T19:06:32.005] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T19:06:32.009] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T19:07:14.620] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T19:07:14.622] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T19:07:14.624] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T19:07:14.625] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T19:07:14.627] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T19:07:14.629] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T19:07:14.631] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T19:07:14.635] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T19:07:14.638] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T19:07:14.672] [INFO] dao.baseDao - query-page:test2
+[2018-08-20T19:07:14.675] [ERROR] dao.baseDao - { Error: ER_SP_UNDECLARED_VAR: Undeclared variable: NaN
+    at Query.Sequence._packetToError (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Socket.emit (events.js:180:13)
+    at addChunk (_stream_readable.js:274:12)
+    at readableAddChunk (_stream_readable.js:261:11)
+    --------------------
+    at Protocol._enqueue (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:200:25)
+    at /Users/yixin/Desktop/workshop/cms/server/utils/DB.js:42:18
+    at Ping.onOperationComplete (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Ping._callback (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:468:16)
+    at Ping.Sequence.end (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  code: 'ER_SP_UNDECLARED_VAR',
+  errno: 1327,
+  sqlMessage: 'Undeclared variable: NaN',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select * from test2   limit NaN,undefined' }
+[2018-08-20T19:15:35.075] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T19:15:35.097] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T19:15:35.104] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T19:15:35.107] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T19:15:35.109] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T19:15:35.126] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T19:15:35.128] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T19:15:35.134] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T19:15:35.137] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T19:15:35.182] [INFO] dao.baseDao - query-all:test2
+[2018-08-20T19:15:35.185] [ERROR] dao.baseDao - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id= 1' at line 1
+    at Query.Sequence._packetToError (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Socket.emit (events.js:180:13)
+    at addChunk (_stream_readable.js:274:12)
+    at readableAddChunk (_stream_readable.js:261:11)
+    --------------------
+    at Protocol._enqueue (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:200:25)
+    at /Users/yixin/Desktop/workshop/cms/server/utils/DB.js:42:18
+    at Ping.onOperationComplete (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Ping._callback (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:468:16)
+    at Ping.Sequence.end (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'id= 1\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select * from test2 where 1=1and id= 1   ' }
+[2018-08-20T19:15:35.396] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T19:15:35.400] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T19:15:35.403] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T19:15:35.406] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T19:15:35.409] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T19:15:35.412] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T19:15:35.418] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T19:15:35.421] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T19:15:35.424] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T19:16:27.288] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T19:16:27.294] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T19:16:27.296] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T19:16:27.298] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T19:16:27.299] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T19:16:27.303] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T19:16:27.304] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T19:16:27.307] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T19:16:27.309] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T19:16:27.345] [INFO] dao.baseDao - query-all:test2
+[2018-08-20T19:16:27.348] [ERROR] dao.baseDao - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id= 1' at line 1
+    at Query.Sequence._packetToError (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Socket.emit (events.js:180:13)
+    at addChunk (_stream_readable.js:274:12)
+    at readableAddChunk (_stream_readable.js:261:11)
+    --------------------
+    at Protocol._enqueue (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:200:25)
+    at /Users/yixin/Desktop/workshop/cms/server/utils/DB.js:43:18
+    at Ping.onOperationComplete (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Ping._callback (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:468:16)
+    at Ping.Sequence.end (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'id= 1\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'select * from test2 where 1=1and id= 1   ' }
+[2018-08-20T19:17:00.810] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T19:17:00.816] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T19:17:00.818] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T19:17:00.819] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T19:17:00.821] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T19:17:00.822] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T19:17:00.823] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T19:17:00.825] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T19:17:00.827] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T19:17:00.862] [INFO] dao.baseDao - query-all:test2
+[2018-08-20T19:17:01.064] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T19:17:01.070] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T19:17:01.079] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T19:17:01.090] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T19:17:01.112] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T19:17:01.115] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T19:17:01.118] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T19:17:01.121] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T19:17:01.129] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T19:17:03.920] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T19:17:03.922] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T19:17:03.923] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T19:17:03.925] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T19:17:03.927] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T19:17:03.929] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T19:17:03.931] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T19:17:03.933] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T19:17:03.936] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T19:17:03.967] [INFO] dao.baseDao - query-all:test2
+[2018-08-20T19:17:46.699] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T19:17:46.701] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T19:17:46.704] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T19:17:46.705] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T19:17:46.706] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T19:17:46.708] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T19:17:46.710] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T19:17:46.714] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T19:17:46.716] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T19:17:46.737] [INFO] dao.baseDao - query-all:m_theme
+[2018-08-20T19:34:29.344] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T19:34:29.347] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T19:34:29.349] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T19:34:29.354] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T19:34:29.359] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T19:34:29.364] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T19:34:29.366] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T19:34:29.368] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T19:34:29.370] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T19:34:29.401] [INFO] dao.baseDao - query-all:m_components
+[2018-08-20T19:34:44.552] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T19:34:44.553] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T19:34:44.555] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T19:34:44.557] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T19:34:44.559] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T19:34:44.561] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T19:34:44.563] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T19:34:44.565] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T19:34:44.567] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T19:34:44.586] [INFO] dao.baseDao - query-all:m_component_props
+[2018-08-20T20:02:44.519] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T20:02:44.521] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T20:02:44.524] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T20:02:44.527] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T20:02:44.532] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T20:02:44.535] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T20:02:44.537] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T20:02:44.544] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T20:02:44.547] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T22:03:19.611] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T22:03:19.623] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T22:03:19.637] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T22:03:19.645] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T22:03:19.652] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T22:03:19.654] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T22:03:19.657] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T22:03:19.662] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T22:03:19.664] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T22:06:31.072] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T22:06:31.074] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T22:06:31.078] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T22:06:31.082] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T22:06:31.085] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T22:06:31.089] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T22:06:31.101] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T22:06:31.106] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T22:06:31.115] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T22:07:02.175] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T22:07:02.178] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T22:07:02.182] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T22:07:02.187] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T22:07:02.192] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T22:07:02.196] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T22:07:02.212] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T22:07:02.219] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T22:07:02.222] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T22:07:29.063] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T22:07:29.065] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T22:07:29.068] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T22:07:29.071] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T22:07:29.073] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T22:07:29.074] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T22:07:29.076] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T22:07:29.080] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T22:07:29.084] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T22:07:29.146] [INFO] dao.baseDao - query-ById:m_components,id:1
+[2018-08-20T22:07:39.362] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T22:07:39.363] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T22:07:39.367] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T22:07:39.369] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T22:07:39.372] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T22:07:39.374] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T22:07:39.378] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T22:07:39.384] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T22:07:39.390] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T22:07:39.424] [INFO] dao.baseDao - query-page:m_components
+[2018-08-20T22:07:39.425] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T22:07:39.430] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-20T22:07:39.433] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T22:07:39.439] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T22:07:39.442] [INFO] dao.baseDao - 1
+[2018-08-20T22:07:39.442] [INFO] dao.baseDao - { page: 0,
+  limit: 10,
+  list: 
+   [ RowDataPacket {
+       id: 1,
+       name: 'input',
+       theme: 1,
+       frontShow: null,
+       backShow: null,
+       createAt: 2018-08-20T14:07:29.000Z,
+       createBy: 1,
+       updateAt: 2018-08-20T14:07:29.000Z,
+       isDeleted: 0,
+       deletedAt: 2018-08-20T14:07:29.000Z } ],
+  total: 1 }
+[2018-08-20T22:07:39.445] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-20T22:07:39.450] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T22:07:39.451] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-20T22:07:39.456] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-20T22:07:39.457] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T22:07:39.459] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-20T22:07:39.460] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T22:07:39.463] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-20T22:07:39.464] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T22:07:39.466] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-20T22:07:39.467] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T22:07:39.470] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-20T22:07:39.471] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T22:07:39.501] [INFO] dao.baseDao - query-all:m_component_props
+[2018-08-20T22:07:39.502] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-20T22:07:39.544] [INFO] dao.baseDao - query-all:m_theme

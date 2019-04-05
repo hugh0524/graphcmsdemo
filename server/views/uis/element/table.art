@@ -1,0 +1,11 @@
+<el-table
+{{each $data.params}}
+{{$index}}="{{$value}}"
+{{/each}}
+>
+  {{if $data.children}}
+    {{each $data.children}}
+      {{ include './'+$value.name+'.art' $value }}
+    {{/each}}
+  {{/if}}
+</el-table>

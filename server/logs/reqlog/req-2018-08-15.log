@@ -1,0 +1,30 @@
+[2018-08-15T00:00:05.754] [INFO] dao.baseDao - 
+[2018-08-15T00:00:05.851] [ERROR] dao.baseDao - { Error: ER_NO_SUCH_TABLE: Table 'manage_config.undefined' doesn't exist
+    at Query.Sequence._packetToError (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Socket.emit (events.js:180:13)
+    at addChunk (_stream_readable.js:274:12)
+    at readableAddChunk (_stream_readable.js:261:11)
+    --------------------
+    at Protocol._enqueue (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:200:25)
+    at /Users/yixin/Desktop/workshop/cms/server/utils/DB.js:42:18
+    at Handshake.onConnect (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Pool.js:64:7)
+    at Handshake.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Handshake._callback (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:468:16)
+    at Handshake.Sequence.end (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Handshake.Sequence.OkPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'manage_config.undefined\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql: 'select * from undefined' }
+[2018-08-15T00:01:09.271] [INFO] dao.baseDao - 

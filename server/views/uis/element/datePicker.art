@@ -1,0 +1,6 @@
+<el-date-picker
+{{each $data.params}}
+{{$index}}="{{$value}}"
+{{/each}}
+>
+</el-date-picker>

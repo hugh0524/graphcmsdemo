@@ -1,0 +1,38 @@
+{
+  "manage_config": {
+    "m_components": [{
+      "type": "o2m",
+      "field": "id",
+      "targetTable": "m_component_props",
+      "targetField": "componentId"
+    },{
+      "type": "o2o",
+      "field": "theme",
+      "targetTable": "m_theme",
+      "targetField": "id"
+    }],
+    "m_models": [{
+      "type": "o2m",
+      "field": "id",
+      "targetTable": "m_model_fields",
+      "targetField": "modelId"
+    }],
+    "m_systems": [{
+      "type": "o2o",
+      "field": "themeId",
+      "targetTable": "m_theme",
+      "targetField": "id"
+    }],
+    "m_theme": [{
+      "type": "o2m",
+      "field": "id",
+      "targetTable": "m_theme_base_props",
+      "targetField": "themeId"
+    },{
+      "type": "o2m",
+      "field": "id",
+      "targetTable": "m_components",
+      "targetField": "themeId"
+    }]
+  }
+}

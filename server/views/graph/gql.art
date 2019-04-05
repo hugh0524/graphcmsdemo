@@ -1,0 +1,64 @@
+{{each $data}}
+{{each $value.enums}}
+  enum {{$value.key}} {
+     {{each $value.list }}{{$value}}
+     {{/each}}
+  }
+{{/each}}
+type {{$value.modal}} {
+  {{each $value.columns }}
+    {{$value.Field}}:{{$value.Type}}
+  {{/each}}
+  {{each $value.relations relation}}
+    {{relation.modal}}:{{if relation.type == 'o2o'}} {{relation.modal}} {{/if}}{{if relation.type == 'o2m'}} [{{relation.modal}}] {{/if}}
+  {{/each}}
+}
+
+input {{$value.modal}}_mutation {
+  {{each $value.columns }}
+    {{$value.Field}}: {{if $value.unUserInMutation}}{{$value.fieldType}}{{/if}}{{if !$value.unUserInMutation}}{{$value.Type}}{{/if}}
+  {{/each}}
+  _exe_type: String!
+}
+
+type {{$value.modal}}_page {
+  page: Int!,
+  limit: Int!,
+  list: [{{$value.modal}}],
+  total: Int!
+}
+
+{{/each}}
+
+type batch_result {
+  result: String!
+}
+
+input where_query {
+  name: String!,
+  opera: String!,
+  value: String!
+}
+
+type Query {
+ {{each $data}}
+  {{$value.name}}_all: [{{$value.modal}}]
+  {{$value.name}}_page(page: Int!,limit: Int!, where:[where_query]): {{$value.modal}}_page
+  {{$value.name}}_byId(id: Int!): {{$value.modal}}
+  {{$value.name}}_byField({{each $value.columns}}  {{$value.Field}}:{{$value.fieldType}}, {{/each}}): [{{$value.modal}}]
+ {{/each}}
+}
+
+type Mutation {
+  {{each $data}}
+    {{$value.name}}_add( {{each $value.columns}} {{if !$value.unUserInMutation}} {{$value.Field}}:{{$value.Type}},{{/if}} {{/each}} ): {{$value.modal}}
+    {{$value.name}}_batch(list: [{{$value.modal}}_mutation]!): batch_result
+    {{$value.name}}_delete(id: Int!): batch_result
+    {{$value.name}}_updateById({{each $value.columns}}  {{$value.Field}}:{{$value.fieldType}}, {{/each}}): {{$value.modal}}
+  {{/each}}
+}
+
+schema {
+  query: Query
+  mutation: Mutation
+}

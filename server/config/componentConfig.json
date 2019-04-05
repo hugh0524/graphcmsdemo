@@ -1,0 +1,126 @@
+{
+  "theme": "element",
+  "components": [
+    {
+      "name": "page",
+      "description": "页面组件",
+      "attribute": [
+        {
+          "name": "id",
+          "type": "input",
+          "level": "base",
+          "description": "id 属性",
+          "isNeed": false
+        },
+        {
+          "name": "name",
+          "type": "input",
+          "level": "base",
+          "description": "name 属性",
+          "isNeed": false
+        },
+        {
+          "name": "class",
+          "type": "input",
+          "level": "css",
+          "description": "class 属性",
+          "isNeed": false
+        },
+        {
+          "name": "style",
+          "type": "input",
+          "level": "css",
+          "description": "style 属性",
+          "isNeed": false
+        }
+      ]
+    },
+    {
+      "name": "row",
+      "description": "行布局",
+      "attribute": [
+        {
+          "name": "gutter",
+          "type": "numberInput",
+          "level": "base",
+          "description": "gutter 属性",
+          "isNeed": false
+        },
+        {
+          "name": "type",
+          "type": "select",
+          "level": "advance",
+          "enumList": ",flex",
+          "description": "type 属性",
+          "isNeed": false
+        },
+        {
+          "name": "justify",
+          "type": "select",
+          "level": "advance",
+          "show": "type == 'flex'",
+          "enumList": "start,end,center,space-around,space-between",
+          "description": "justify 属性",
+          "isNeed": false
+        },
+        {
+          "name": "align",
+          "type": "select",
+          "level": "advance",
+          "show": "type == 'flex'",
+          "enumList": "top/middle/bottom",
+          "description": "align 属性",
+          "isNeed": false
+        },
+        {
+          "name": "tag",
+          "type": "input",
+          "level": "advance",
+          "description": "tag 属性",
+          "isNeed": false
+        }
+      ]
+    },
+    {
+      "name": "col",
+      "description": "列布局",
+      "attribute": [
+        {
+          "name": "span",
+          "type": "numberInput",
+          "level": "base",
+          "description": "栅格占据的列数",
+          "isNeed": false
+        },
+        {
+          "name": "offset",
+          "type": "numberInput",
+          "level": "base",
+          "description": "栅格左侧的间隔格数",
+          "isNeed": false
+        },
+        {
+          "name": "push",
+          "type": "numberInput",
+          "level": "base",
+          "description": "栅格向右移动格数",
+          "isNeed": false
+        },
+        {
+          "name": "pull",
+          "type": "numberInput",
+          "level": "base",
+          "description": "栅格向左移动格数	",
+          "isNeed": false
+        },
+        {
+          "name": "xs",
+          "type": "input",
+          "level": "advance",
+          "description": "<768px 响应式栅格数或者栅格属性对象	",
+          "isNeed": false
+        }
+      ]
+    }
+  ]
+}

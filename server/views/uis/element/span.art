@@ -1,0 +1,8 @@
+<span>
+  {{ $data.params.html}}
+  {{if $data.children}}
+    {{each $data.children}}
+      {{ include './'+$value.name+'.art' $value }}
+    {{/each}}
+  {{/if}}
+</span>

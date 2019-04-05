@@ -1,0 +1,210 @@
+[2018-09-06T16:34:10.376] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-06T16:34:10.383] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-06T16:34:10.443] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-06T16:34:10.444] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-06T16:34:10.449] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-06T16:34:10.453] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-06T16:34:10.460] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-06T16:34:10.467] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-06T16:34:10.471] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-06T16:34:10.484] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-06T16:34:10.502] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-06T16:34:10.504] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-06T16:34:10.516] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-06T16:34:10.520] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-06T16:34:10.524] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-06T16:34:10.529] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-06T16:34:10.539] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-06T16:34:10.541] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-06T16:34:10.545] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-06T16:34:10.546] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-06T16:34:10.547] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-06T16:34:10.552] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-06T16:34:10.556] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-06T16:34:10.567] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-06T16:34:10.570] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-06T16:34:10.571] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-06T16:34:10.573] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-06T16:34:10.575] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-06T16:34:10.577] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-06T16:34:10.579] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-06T16:34:10.582] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-06T16:34:10.585] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-06T16:34:10.587] [INFO] dao.baseDao - show-table-info:users
+[2018-09-06T16:34:10.589] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-06T16:34:10.673] [INFO] dao.baseDao - query-all:m_theme
+[2018-09-06T16:34:10.675] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-06T16:34:10.676] [INFO] dao.baseDao - show-table-info:users
+[2018-09-06T16:34:10.721] [INFO] dao.baseDao - query-all:m_systems
+[2018-09-06T16:34:21.770] [INFO] dao.baseDao - query-all:roles
+[2018-09-06T16:34:22.980] [INFO] dao.baseDao - query-page:m_components
+[2018-09-06T16:34:22.985] [INFO] dao.baseDao - query-all:m_component_props
+[2018-09-06T16:34:23.009] [INFO] dao.baseDao - 7
+[2018-09-06T16:34:23.009] [INFO] dao.baseDao - { page: 0,
+  limit: 10,
+  list: 
+   [ RowDataPacket {
+       id: 1,
+       name: 'input',
+       description: null,
+       theme: 1,
+       frontShow: null,
+       backShow: null,
+       createAt: 2018-08-20T14:07:29.000Z,
+       createBy: 1,
+       updateAt: 2018-08-20T14:07:29.000Z,
+       isDeleted: 0,
+       deletedAt: 2018-08-20T14:07:29.000Z },
+     RowDataPacket {
+       id: 2,
+       name: 'select',
+       description: null,
+       theme: 1,
+       frontShow: null,
+       backShow: null,
+       createAt: 2018-08-24T05:41:55.000Z,
+       createBy: 1,
+       updateAt: 2018-08-24T05:41:55.000Z,
+       isDeleted: 0,
+       deletedAt: 2018-08-24T05:41:55.000Z },
+     RowDataPacket {
+       id: 3,
+       name: 'row',
+       description: null,
+       theme: 1,
+       frontShow: null,
+       backShow: null,
+       createAt: 2018-08-24T13:17:11.000Z,
+       createBy: 1,
+       updateAt: 2018-08-24T13:17:11.000Z,
+       isDeleted: 0,
+       deletedAt: 2018-08-24T13:17:11.000Z },
+     RowDataPacket {
+       id: 4,
+       name: 'col',
+       description: null,
+       theme: 1,
+       frontShow: null,
+       backShow: null,
+       createAt: 2018-08-25T02:12:18.000Z,
+       createBy: 1,
+       updateAt: 2018-08-25T02:12:18.000Z,
+       isDeleted: 0,
+       deletedAt: 2018-08-25T02:12:18.000Z },
+     RowDataPacket {
+       id: 5,
+       name: 'table',
+       description: null,
+       theme: 1,
+       frontShow: null,
+       backShow: null,
+       createAt: 2018-09-04T08:18:21.000Z,
+       createBy: 1,
+       updateAt: 2018-09-04T08:18:21.000Z,
+       isDeleted: 0,
+       deletedAt: 2018-09-04T08:18:21.000Z },
+     RowDataPacket {
+       id: 6,
+       name: 'tableCol',
+       description: null,
+       theme: 1,
+       frontShow: null,
+       backShow: null,
+       createAt: 2018-09-04T08:20:19.000Z,
+       createBy: 1,
+       updateAt: 2018-09-04T08:20:19.000Z,
+       isDeleted: 0,
+       deletedAt: 2018-09-04T08:20:19.000Z },
+     RowDataPacket {
+       id: 7,
+       name: 'radio',
+       description: null,
+       theme: 1,
+       frontShow: null,
+       backShow: null,
+       createAt: 2018-09-04T08:22:14.000Z,
+       createBy: 1,
+       updateAt: 2018-09-04T08:22:14.000Z,
+       isDeleted: 0,
+       deletedAt: 2018-09-04T08:22:14.000Z } ],
+  total: 7 }
+[2018-09-06T16:34:33.623] [INFO] dao.baseDao - query-all:m_component_props
+[2018-09-06T16:34:34.847] [INFO] dao.baseDao - query-all:m_component_props
+[2018-09-06T16:34:35.316] [INFO] dao.baseDao - query-all:m_component_props
+[2018-09-06T16:34:35.762] [INFO] dao.baseDao - query-all:m_component_props
+[2018-09-06T16:34:36.329] [INFO] dao.baseDao - query-all:m_component_props
+[2018-09-06T16:34:36.829] [INFO] dao.baseDao - query-all:m_component_props
+[2018-09-06T16:34:38.144] [INFO] dao.baseDao - query-all:m_component_props
+[2018-09-06T16:34:39.630] [INFO] dao.baseDao - query-all:m_component_props
+[2018-09-06T16:34:40.578] [INFO] dao.baseDao - query-all:m_component_props
+[2018-09-06T16:34:53.434] [INFO] dao.baseDao - query-all:m_datasource
+[2018-09-06T16:34:55.721] [INFO] dao.baseDao - query-all:m_models
+[2018-09-06T16:34:55.730] [INFO] dao.baseDao - query-all:m_model_fields
+[2018-09-06T16:34:55.731] [INFO] dao.baseDao - query-all:m_model_fields
+[2018-09-06T16:34:55.731] [INFO] dao.baseDao - query-all:m_model_fields
+[2018-09-06T16:36:21.766] [INFO] dao.baseDao - query-all:m_page
+[2018-09-06T16:36:23.446] [INFO] dao.baseDao - query-ById:m_page,id:4
+[2018-09-06T16:36:25.993] [INFO] dao.baseDao - query-ById:m_page,id:5
+[2018-09-06T18:14:19.679] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-06T18:14:19.713] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-06T18:14:19.719] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-06T18:14:19.729] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-06T18:14:19.732] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-06T18:14:19.736] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-06T18:14:19.738] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-06T18:14:19.744] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-06T18:14:19.746] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-06T18:14:19.749] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-06T18:14:19.752] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-06T18:14:19.754] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-06T18:14:19.757] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-06T18:14:19.760] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-06T18:14:19.762] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-06T18:14:19.763] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-06T18:14:19.764] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-06T18:14:19.768] [INFO] dao.baseDao - show-table-info:users
+[2018-09-06T18:14:19.828] [INFO] dao.baseDao - query-ById:m_models,id:11
+[2018-09-06T18:14:19.841] [INFO] dao.baseDao - query-all:m_model_fields
+[2018-09-06T18:14:19.922] [INFO] dao.baseDao - query-ById:m_page,id:6
+[2018-09-06T18:14:31.574] [INFO] dao.baseDao - query-all:m_page
+[2018-09-06T18:14:31.578] [INFO] dao.baseDao - query-all:m_datasource
+[2018-09-06T18:35:51.378] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-06T18:35:51.400] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-06T18:35:51.406] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-06T18:35:51.420] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-06T18:35:51.423] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-06T18:35:51.429] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-06T18:35:51.433] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-06T18:35:51.435] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-06T18:35:51.437] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-06T18:35:51.448] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-06T18:35:51.454] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-06T18:35:51.459] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-06T18:35:51.463] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-06T18:35:51.467] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-06T18:35:51.471] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-06T18:35:51.473] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-06T18:35:51.477] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-06T18:35:51.480] [INFO] dao.baseDao - show-table-info:users
+[2018-09-06T18:35:51.593] [INFO] dao.baseDao - query-ById:m_page,id:6
+[2018-09-06T18:41:02.597] [INFO] dao.baseDao - query-all:m_models
+[2018-09-06T18:41:45.521] [INFO] dao.baseDao - query-all:m_models
+[2018-09-06T19:03:36.175] [INFO] dao.baseDao - query-all:m_models
+[2018-09-06T19:40:17.023] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-06T19:40:17.033] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-06T19:40:17.040] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-06T19:40:17.049] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-06T19:40:17.053] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-06T19:40:17.056] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-06T19:40:17.060] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-06T19:40:17.068] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-06T19:40:17.076] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-06T19:40:17.091] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-06T19:40:17.105] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-06T19:40:17.108] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-06T19:40:17.116] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-06T19:40:17.119] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-06T19:40:17.121] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-06T19:40:17.129] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-06T19:40:17.139] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-06T19:40:17.146] [INFO] dao.baseDao - show-table-info:users

@@ -1,0 +1,21 @@
+{
+  "apps": [
+    {
+      "name": "cms",
+      "script": "./app.js",
+      "log_date_format": "YYYY-MM-DD HH:mm Z",
+      "ignoreWatch": [
+        "[\\/\\\\]\\./",
+        "node_modules"
+      ],
+      "instances": 4,
+      "watch": false,
+      "node_args": "--harmony",
+      "cwd": "./server",
+      "env": {
+        "NODE_ENV": "production",
+        "AWESOME_SERVICE_API_TOKEN": "xxx"
+      }
+    }
+  ]
+}

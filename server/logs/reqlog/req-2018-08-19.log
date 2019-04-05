@@ -1,0 +1,320 @@
+[2018-08-19T09:46:47.096] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T09:46:47.154] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T09:46:47.157] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T09:46:47.160] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T09:46:47.170] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T09:46:47.183] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T09:46:47.185] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T09:46:47.187] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T09:46:47.212] [INFO] dao.baseDao - query-all:m_systems
+[2018-08-19T09:47:00.959] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T09:47:00.962] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T09:47:00.963] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T09:47:00.965] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T09:47:00.968] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T09:47:00.970] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T09:47:00.971] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T09:47:00.973] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T09:47:00.994] [INFO] dao.baseDao - query-all:m_systems
+[2018-08-19T10:03:18.408] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T10:03:18.418] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T10:03:18.420] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T10:03:18.423] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T10:03:18.428] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T10:03:18.431] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T10:03:18.437] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T10:03:18.443] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T10:03:18.464] [INFO] dao.baseDao - query-all:m_systems
+[2018-08-19T10:03:19.221] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T10:03:19.223] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T10:03:19.225] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T10:03:19.227] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T10:03:19.234] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T10:03:19.237] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T10:03:19.243] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T10:03:19.250] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T10:14:18.163] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T10:14:18.166] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T10:14:18.176] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T10:14:18.187] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T10:14:18.190] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T10:14:18.192] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T10:14:18.194] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T10:14:18.198] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T10:14:18.237] [INFO] dao.baseDao - query-all:m_systems
+[2018-08-19T10:14:18.880] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T10:14:18.881] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T10:14:18.883] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T10:14:18.886] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T10:14:18.888] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T10:14:18.890] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T10:14:18.892] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T10:14:18.894] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T10:18:18.526] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T10:18:18.529] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T10:18:18.531] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T10:18:18.539] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T10:18:18.541] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T10:18:18.543] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T10:18:18.545] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T10:18:18.547] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T10:18:18.617] [INFO] dao.baseDao - query-ById:test2,id:4
+[2018-08-19T10:19:40.363] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T10:19:40.364] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T10:19:40.366] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T10:19:40.368] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T10:19:40.370] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T10:19:40.372] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T10:19:40.374] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T10:19:40.377] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T10:19:40.444] [INFO] dao.baseDao - query-ById:test2,id:5
+[2018-08-19T10:20:24.441] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T10:20:24.447] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T10:20:24.450] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T10:20:24.452] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T10:20:24.453] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T10:20:24.455] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T10:20:24.457] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T10:20:24.458] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T10:20:24.514] [INFO] dao.baseDao - query-ById:test2,id:6
+[2018-08-19T10:20:40.595] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T10:20:40.601] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T10:20:40.603] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T10:20:40.604] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T10:20:40.607] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T10:20:40.609] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T10:20:40.611] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T10:20:40.613] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T10:20:40.666] [INFO] dao.baseDao - query-ById:test2,id:7
+[2018-08-19T13:03:30.890] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T13:03:30.899] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T13:03:30.908] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T13:03:30.914] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T13:03:30.918] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T13:03:30.927] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T13:03:30.936] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T13:03:30.945] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T13:03:30.992] [INFO] dao.baseDao - query-all:m_systems
+[2018-08-19T13:04:17.254] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T13:04:17.256] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T13:04:17.258] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T13:04:17.260] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T13:04:17.263] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T13:04:17.267] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T13:04:17.270] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T13:04:17.272] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T13:04:17.304] [INFO] dao.baseDao - query-all:m_systems
+[2018-08-19T13:04:27.845] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T13:04:27.847] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T13:04:27.849] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T13:04:27.850] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T13:04:27.852] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T13:04:27.854] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T13:04:27.857] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T13:04:27.859] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T13:04:27.892] [INFO] dao.baseDao - query-all:m_systems
+[2018-08-19T13:07:18.856] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T13:07:18.858] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T13:07:18.860] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T13:07:18.870] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T13:07:18.873] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T13:07:18.881] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T13:07:18.883] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T13:07:18.886] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T13:07:18.911] [INFO] dao.baseDao - query-all:m_systems
+[2018-08-19T13:09:26.447] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T13:09:26.449] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T13:09:26.453] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T13:09:26.457] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T13:09:26.459] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T13:09:26.462] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T13:09:26.464] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T13:09:26.467] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T13:09:26.495] [INFO] dao.baseDao - query-all:m_systems
+[2018-08-19T13:12:56.362] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T13:12:56.364] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T13:12:56.372] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T13:12:56.374] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T13:12:56.375] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T13:12:56.377] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T13:12:56.379] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T13:12:56.382] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T13:12:56.404] [INFO] dao.baseDao - query-all:m_systems
+[2018-08-19T20:26:35.343] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T20:26:35.387] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T20:26:35.395] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T20:26:35.397] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T20:26:35.400] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T20:26:35.401] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T20:26:35.410] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T20:26:35.417] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T20:26:35.441] [INFO] dao.baseDao - query-all:m_systems
+[2018-08-19T23:40:39.846] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T23:40:39.857] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T23:40:39.863] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T23:40:39.866] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-19T23:40:39.870] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T23:40:39.873] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T23:40:39.876] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T23:40:39.877] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T23:40:39.879] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T23:40:39.943] [INFO] dao.baseDao - query-ById:test2,id:8
+[2018-08-19T23:41:10.391] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T23:41:10.398] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T23:41:10.401] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T23:41:10.403] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-19T23:41:10.405] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T23:41:10.412] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T23:41:10.414] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T23:41:10.417] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T23:41:10.420] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T23:41:10.481] [INFO] dao.baseDao - query-ById:test2,id:9
+[2018-08-19T23:42:00.412] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T23:42:00.418] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T23:42:00.419] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T23:42:00.420] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-19T23:42:00.422] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T23:42:00.423] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T23:42:00.424] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T23:42:00.425] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T23:42:00.427] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T23:42:00.481] [INFO] dao.baseDao - query-ById:test2,id:10
+[2018-08-19T23:42:27.969] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T23:42:27.979] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T23:42:27.982] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T23:42:27.987] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-19T23:42:27.989] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T23:42:27.991] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T23:42:27.994] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T23:42:27.999] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T23:42:28.001] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T23:42:28.072] [ERROR] dao.baseDao - { Error: ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: 'Sun Aug 19 2018 23:42:28 GMT+0800 (CST)' for column 'createAt' at row 1
+    at Query.Sequence._packetToError (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Socket.emit (events.js:180:13)
+    at addChunk (_stream_readable.js:274:12)
+    at readableAddChunk (_stream_readable.js:261:11)
+    --------------------
+    at Protocol._enqueue (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:200:25)
+    at /Users/yixin/Desktop/workshop/cms/server/utils/DB.js:42:18
+    at Ping.onOperationComplete (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Ping._callback (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:468:16)
+    at Ping.Sequence.end (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: 'Incorrect datetime value: \'Sun Aug 19 2018 23:42:28 GMT+0800 (CST)\' for column \'createAt\' at row 1',
+  sqlState: '22007',
+  index: 0,
+  sql: 'insert into test2(name,sex,createAt) values ("abc","a","Sun Aug 19 2018 23:42:28 GMT+0800 (CST)")' }
+[2018-08-19T23:48:36.161] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T23:48:36.170] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T23:48:36.174] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T23:48:36.176] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-19T23:48:36.178] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T23:48:36.180] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T23:48:36.181] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T23:48:36.183] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T23:48:36.185] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T23:48:37.074] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T23:48:37.076] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T23:48:37.078] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T23:48:37.080] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-19T23:48:37.083] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T23:48:37.086] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T23:48:37.090] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T23:48:37.093] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T23:48:37.096] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T23:48:44.397] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T23:48:44.399] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T23:48:44.401] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T23:48:44.404] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-19T23:48:44.407] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T23:48:44.411] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T23:48:44.415] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T23:48:44.420] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T23:48:44.423] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T23:48:44.519] [ERROR] dao.baseDao - { Error: ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: 'yyyy-08-dd 11:mm:ss' for column 'createAt' at row 1
+    at Query.Sequence._packetToError (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Socket.emit (events.js:180:13)
+    at addChunk (_stream_readable.js:274:12)
+    at readableAddChunk (_stream_readable.js:261:11)
+    --------------------
+    at Protocol._enqueue (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:200:25)
+    at /Users/yixin/Desktop/workshop/cms/server/utils/DB.js:42:18
+    at Ping.onOperationComplete (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Ping._callback (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:468:16)
+    at Ping.Sequence.end (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: 'Incorrect datetime value: \'yyyy-08-dd 11:mm:ss\' for column \'createAt\' at row 1',
+  sqlState: '22007',
+  index: 0,
+  sql: 'insert into test2(name,sex,createAt) values ("abc","a","yyyy-08-dd 11:mm:ss")' }
+[2018-08-19T23:50:10.001] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T23:50:10.008] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T23:50:10.011] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T23:50:10.013] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-19T23:50:10.017] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T23:50:10.020] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T23:50:10.021] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T23:50:10.022] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T23:50:10.024] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T23:50:10.065] [ERROR] dao.baseDao - { Error: ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: '2018-08-dd 23:50:10' for column 'createAt' at row 1
+    at Query.Sequence._packetToError (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Socket.emit (events.js:180:13)
+    at addChunk (_stream_readable.js:274:12)
+    at readableAddChunk (_stream_readable.js:261:11)
+    --------------------
+    at Protocol._enqueue (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:200:25)
+    at /Users/yixin/Desktop/workshop/cms/server/utils/DB.js:42:18
+    at Ping.onOperationComplete (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Ping._callback (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:468:16)
+    at Ping.Sequence.end (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: 'Incorrect datetime value: \'2018-08-dd 23:50:10\' for column \'createAt\' at row 1',
+  sqlState: '22007',
+  index: 0,
+  sql: 'insert into test2(name,sex,createAt) values ("abc","a","2018-08-dd 23:50:10")' }
+[2018-08-19T23:50:20.722] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-08-19T23:50:20.728] [INFO] dao.baseDao - show-table-info:m_components
+[2018-08-19T23:50:20.730] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-08-19T23:50:20.732] [INFO] dao.baseDao - show-table-info:m_models
+[2018-08-19T23:50:20.734] [INFO] dao.baseDao - show-table-info:m_page
+[2018-08-19T23:50:20.736] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-08-19T23:50:20.738] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-08-19T23:50:20.739] [INFO] dao.baseDao - show-table-info:test2
+[2018-08-19T23:50:20.741] [INFO] dao.baseDao - show-table-info:testTable
+[2018-08-19T23:50:20.788] [INFO] dao.baseDao - query-ById:test2,id:11

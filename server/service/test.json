@@ -1,0 +1,9 @@
+{"app": [
+  {"id":1536144745390,"name":"page","children":[{"id":1536144745392,"name":"table", "params": {":data": "course_list"},
+  "children":[{"id":1536144745388,"name":"tableCol","params":{"prop":"id","label":"id"}},
+    {"id":1536144745389,"name":"tableCol","params":{"prop":"course","label":"course"}},
+    {"id":1536144745390,"name":"tableCol","params":{"prop":"score","label":"score"}},
+    {"id":1536144745391,"name":"tableCol","params":{"prop":"userId","label":"userId"}}]
+,"params":{":data":"course_list"}}]}],
+"data":[{"type":"graphDB","name":"course","fields":[{"name":"id","type":"input"},{"name":"course","type":"input"},{"name":"score","type":"input"},{"name":"userId","type":"input"}]}]
+}

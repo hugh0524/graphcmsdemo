@@ -1,0 +1,349 @@
+[2018-09-02T22:47:33.353] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-02T22:47:33.389] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-02T22:47:33.399] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-02T22:47:33.408] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-02T22:47:33.415] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-02T22:47:33.418] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-02T22:47:33.424] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-02T22:47:33.433] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-02T22:47:33.444] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-02T22:47:33.448] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-02T22:47:33.450] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-02T22:47:33.460] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-02T22:47:33.468] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-02T22:47:33.472] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-02T22:47:33.479] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-02T22:47:33.491] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-02T22:47:33.495] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-02T22:47:33.497] [INFO] dao.baseDao - show-table-info:users
+[2018-09-02T22:47:33.669] [INFO] dao.baseDao - query-all:m_datasource
+[2018-09-02T22:48:43.621] [INFO] dao.baseDao - query-ById:m_datasource,id:2
+[2018-09-02T22:50:05.795] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-02T22:50:05.800] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-02T22:50:05.802] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-02T22:50:05.804] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-02T22:50:05.806] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-02T22:50:05.808] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-02T22:50:05.811] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-02T22:50:05.813] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-02T22:50:05.816] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-02T22:50:05.818] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-02T22:50:05.820] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-02T22:50:05.821] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-02T22:50:05.824] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-02T22:50:05.827] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-02T22:50:05.830] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-02T22:50:05.832] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-02T22:50:05.834] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-02T22:50:05.836] [INFO] dao.baseDao - show-table-info:users
+[2018-09-02T22:50:05.924] [INFO] dao.baseDao - query-ById:m_datasource,id:3
+[2018-09-02T22:53:30.310] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-02T22:53:30.316] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-02T22:53:30.319] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-02T22:53:30.321] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-02T22:53:30.324] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-02T22:53:30.327] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-02T22:53:30.330] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-02T22:53:30.332] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-02T22:53:30.334] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-02T22:53:30.336] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-02T22:53:30.338] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-02T22:53:30.339] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-02T22:53:30.341] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-02T22:53:30.342] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-02T22:53:30.344] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-02T22:53:30.346] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-02T22:53:30.348] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-02T22:53:30.352] [INFO] dao.baseDao - show-table-info:users
+[2018-09-02T22:53:30.432] [INFO] dao.baseDao - query-ById:m_datasource,id:4
+[2018-09-02T22:55:22.499] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-02T22:55:22.505] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-02T22:55:22.508] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-02T22:55:22.510] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-02T22:55:22.513] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-02T22:55:22.514] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-02T22:55:22.519] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-02T22:55:22.523] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-02T22:55:22.526] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-02T22:55:22.528] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-02T22:55:22.530] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-02T22:55:22.532] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-02T22:55:22.535] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-02T22:55:22.536] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-02T22:55:22.538] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-02T22:55:22.540] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-02T22:55:22.542] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-02T22:55:22.543] [INFO] dao.baseDao - show-table-info:users
+[2018-09-02T22:55:22.617] [INFO] dao.baseDao - query-ById:m_datasource,id:5
+[2018-09-02T22:55:52.857] [INFO] dao.baseDao - query-ById:m_datasource,id:6
+[2018-09-02T22:56:39.066] [INFO] dao.baseDao - query-ById:m_datasource,id:7
+[2018-09-02T22:59:02.832] [ERROR] dao.baseDao - { Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'database":"sys"}","2018-09-02 22:59:02","2018-09-02 22:59:02","2018-09-02 22:59:' at line 1
+    at Query.Sequence._packetToError (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Socket.emit (events.js:180:13)
+    at addChunk (_stream_readable.js:274:12)
+    at readableAddChunk (_stream_readable.js:261:11)
+    --------------------
+    at Protocol._enqueue (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:200:25)
+    at /Users/yixin/Desktop/workshop/cms/server/utils/DB.js:43:18
+    at Ping.onOperationComplete (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Ping._callback (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:468:16)
+    at Ping.Sequence.end (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'database":"sys"}","2018-09-02 22:59:02","2018-09-02 22:59:02","2018-09-02 22:59:\' at line 1',
+  sqlState: '42000',
+  index: 0,
+  sql: 'insert into m_datasource(systemId,name,url,user,password,config,createAt,updateAt,deletedAt,createBy) values ("1","sys","127.0.0.1","root","","{"database":"sys"}","2018-09-02 22:59:02","2018-09-02 22:59:02","2018-09-02 22:59:02","1")' }
+[2018-09-02T23:01:05.394] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-02T23:01:05.400] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-02T23:01:05.403] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-02T23:01:05.406] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-02T23:01:05.408] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-02T23:01:05.410] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-02T23:01:05.412] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-02T23:01:05.415] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-02T23:01:05.416] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-02T23:01:05.417] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-02T23:01:05.419] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-02T23:01:05.420] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-02T23:01:05.421] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-02T23:01:05.423] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-02T23:01:05.425] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-02T23:01:05.427] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-02T23:01:05.429] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-02T23:01:05.430] [INFO] dao.baseDao - show-table-info:users
+[2018-09-02T23:01:05.500] [ERROR] dao.baseDao - { Error: ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: ''2018-09-02 23:01:05'' for column 'createAt' at row 1
+    at Query.Sequence._packetToError (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Socket.emit (events.js:180:13)
+    at addChunk (_stream_readable.js:274:12)
+    at readableAddChunk (_stream_readable.js:261:11)
+    --------------------
+    at Protocol._enqueue (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:200:25)
+    at /Users/yixin/Desktop/workshop/cms/server/utils/DB.js:43:18
+    at Ping.onOperationComplete (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Ping._callback (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:468:16)
+    at Ping.Sequence.end (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: 'Incorrect datetime value: \'\'2018-09-02 23:01:05\'\' for column \'createAt\' at row 1',
+  sqlState: '22007',
+  index: 0,
+  sql: 'insert into m_datasource(systemId,name,url,user,password,config,createAt,updateAt,deletedAt,createBy) values ("1","\'sys\'","\'127.0.0.1\'","\'root\'","\'\'","\'{\\"database\\":\\"sys\\"}\'","\'2018-09-02 23:01:05\'","\'2018-09-02 23:01:05\'","\'2018-09-02 23:01:05\'","1")' }
+[2018-09-02T23:05:00.164] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-02T23:05:00.171] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-02T23:05:00.172] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-02T23:05:00.175] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-02T23:05:00.180] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-02T23:05:00.181] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-02T23:05:00.183] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-02T23:05:00.185] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-02T23:05:00.186] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-02T23:05:00.188] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-02T23:05:00.190] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-02T23:05:00.192] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-02T23:05:00.193] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-02T23:05:00.195] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-02T23:05:00.196] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-02T23:05:00.197] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-02T23:05:00.199] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-02T23:05:00.201] [INFO] dao.baseDao - show-table-info:users
+[2018-09-02T23:05:00.291] [ERROR] dao.baseDao - { Error: ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: ''2018-09-02 23:05:00'' for column 'createAt' at row 1
+    at Query.Sequence._packetToError (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Socket.emit (events.js:180:13)
+    at addChunk (_stream_readable.js:274:12)
+    at readableAddChunk (_stream_readable.js:261:11)
+    --------------------
+    at Protocol._enqueue (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:200:25)
+    at /Users/yixin/Desktop/workshop/cms/server/utils/DB.js:43:18
+    at Ping.onOperationComplete (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Ping._callback (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:468:16)
+    at Ping.Sequence.end (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: 'Incorrect datetime value: \'\'2018-09-02 23:05:00\'\' for column \'createAt\' at row 1',
+  sqlState: '22007',
+  index: 0,
+  sql: 'insert into m_datasource(systemId,name,url,user,password,config,createAt,updateAt,deletedAt,createBy) values ("1","\'sys\'","\'127.0.0.1\'","\'root\'","\'\'","\'{\\"database\\":\\"sys\\"}\'","\'2018-09-02 23:05:00\'","\'2018-09-02 23:05:00\'","\'2018-09-02 23:05:00\'","1")' }
+[2018-09-02T23:07:08.993] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-02T23:07:09.008] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-02T23:07:09.012] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-02T23:07:09.015] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-02T23:07:09.018] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-02T23:07:09.023] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-02T23:07:09.028] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-02T23:07:09.034] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-02T23:07:09.039] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-02T23:07:09.041] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-02T23:07:09.045] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-02T23:07:09.050] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-02T23:07:09.054] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-02T23:07:09.057] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-02T23:07:09.059] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-02T23:07:09.062] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-02T23:07:09.065] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-02T23:07:09.069] [INFO] dao.baseDao - show-table-info:users
+[2018-09-02T23:07:09.238] [ERROR] dao.baseDao - { Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+    at Query.Sequence._packetToError (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Socket.emit (events.js:180:13)
+    at addChunk (_stream_readable.js:274:12)
+    at readableAddChunk (_stream_readable.js:261:11)
+    --------------------
+    at Protocol._enqueue (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:200:25)
+    at /Users/yixin/Desktop/workshop/cms/server/utils/DB.js:43:18
+    at Ping.onOperationComplete (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Ping._callback (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:468:16)
+    at Ping.Sequence.end (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  code: 'ER_WRONG_VALUE_COUNT_ON_ROW',
+  errno: 1136,
+  sqlMessage: 'Column count doesn\'t match value count at row 1',
+  sqlState: '21S01',
+  index: 0,
+  sql: 'insert into m_datasource(systemId,name,url,user,password,config,createAt,updateAt,deletedAt,createBy) values ("1,\'sys\',\'127.0.0.1\',\'root\',\'\',\'{\\"database\\":\\"sys\\"}\',\'2018-09-02 23:07:09\',\'2018-09-02 23:07:09\',\'2018-09-02 23:07:09\',1")' }
+[2018-09-02T23:45:14.440] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-02T23:45:14.451] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-02T23:45:14.454] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-02T23:45:14.458] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-02T23:45:14.461] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-02T23:45:14.465] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-02T23:45:14.467] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-02T23:45:14.469] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-02T23:45:14.471] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-02T23:45:14.473] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-02T23:45:14.474] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-02T23:45:14.475] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-02T23:45:14.476] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-02T23:45:14.479] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-02T23:45:14.480] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-02T23:45:14.481] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-02T23:45:14.482] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-02T23:45:14.484] [INFO] dao.baseDao - show-table-info:users
+[2018-09-02T23:45:14.546] [ERROR] dao.baseDao - { Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+    at Query.Sequence._packetToError (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+    at Protocol.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Socket.emit (events.js:180:13)
+    at addChunk (_stream_readable.js:274:12)
+    at readableAddChunk (_stream_readable.js:261:11)
+    --------------------
+    at Protocol._enqueue (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:200:25)
+    at /Users/yixin/Desktop/workshop/cms/server/utils/DB.js:43:18
+    at Ping.onOperationComplete (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:502:10)
+    at Ping._callback (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/Connection.js:468:16)
+    at Ping.Sequence.end (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Protocol.js:278:23)
+    at Parser.write (/Users/yixin/Desktop/workshop/cms/node_modules/mysql/lib/protocol/Parser.js:76:12)
+  code: 'ER_WRONG_VALUE_COUNT_ON_ROW',
+  errno: 1136,
+  sqlMessage: 'Column count doesn\'t match value count at row 1',
+  sqlState: '21S01',
+  index: 0,
+  sql: 'insert into m_datasource(systemId,name,url,user,password,config,createAt,updateAt,deletedAt,createBy) values ("1,\'sys\',\'127.0.0.1\',\'root\',\'\',\'{\\"database\\":\\"sys\\"}\',\'2018-09-02 23:45:14\',\'2018-09-02 23:45:14\',\'2018-09-02 23:45:14\',1")' }
+[2018-09-02T23:49:10.110] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-02T23:49:10.122] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-02T23:49:10.124] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-02T23:49:10.126] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-02T23:49:10.128] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-02T23:49:10.152] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-02T23:49:10.162] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-02T23:49:10.206] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-02T23:49:10.209] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-02T23:49:10.211] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-02T23:49:10.218] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-02T23:49:10.223] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-02T23:49:10.229] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-02T23:49:10.235] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-02T23:49:10.242] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-02T23:49:10.251] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-02T23:49:10.256] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-02T23:49:10.261] [INFO] dao.baseDao - show-table-info:users
+[2018-09-02T23:49:10.505] [INFO] dao.baseDao - query-ById:m_datasource,id:8
+[2018-09-02T23:54:18.385] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-02T23:54:18.400] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-02T23:54:18.402] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-02T23:54:18.405] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-02T23:54:18.408] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-02T23:54:18.410] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-02T23:54:18.413] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-02T23:54:18.417] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-02T23:54:18.420] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-02T23:54:18.422] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-02T23:54:18.423] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-02T23:54:18.426] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-02T23:54:18.431] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-02T23:54:18.434] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-02T23:54:18.436] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-02T23:54:18.437] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-02T23:54:18.441] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-02T23:54:18.443] [INFO] dao.baseDao - show-table-info:users
+[2018-09-02T23:54:18.526] [INFO] dao.baseDao - query-ById:m_datasource,id:9
+[2018-09-02T23:55:38.704] [INFO] dao.baseDao - show-table-info:group_role_relation
+[2018-09-02T23:55:38.707] [INFO] dao.baseDao - show-table-info:m_component_props
+[2018-09-02T23:55:38.710] [INFO] dao.baseDao - show-table-info:m_components
+[2018-09-02T23:55:38.712] [INFO] dao.baseDao - show-table-info:m_datasource
+[2018-09-02T23:55:38.713] [INFO] dao.baseDao - show-table-info:m_fields
+[2018-09-02T23:55:38.714] [INFO] dao.baseDao - show-table-info:m_model_fields
+[2018-09-02T23:55:38.716] [INFO] dao.baseDao - show-table-info:m_models
+[2018-09-02T23:55:38.717] [INFO] dao.baseDao - show-table-info:m_page
+[2018-09-02T23:55:38.718] [INFO] dao.baseDao - show-table-info:m_page_actions
+[2018-09-02T23:55:38.720] [INFO] dao.baseDao - show-table-info:m_systems
+[2018-09-02T23:55:38.723] [INFO] dao.baseDao - show-table-info:m_theme
+[2018-09-02T23:55:38.724] [INFO] dao.baseDao - show-table-info:roles
+[2018-09-02T23:55:38.726] [INFO] dao.baseDao - show-table-info:test2
+[2018-09-02T23:55:38.732] [INFO] dao.baseDao - show-table-info:test3
+[2018-09-02T23:55:38.765] [INFO] dao.baseDao - show-table-info:testTable
+[2018-09-02T23:55:38.783] [INFO] dao.baseDao - show-table-info:user_group
+[2018-09-02T23:55:38.804] [INFO] dao.baseDao - show-table-info:user_group_relation
+[2018-09-02T23:55:38.823] [INFO] dao.baseDao - show-table-info:users
+[2018-09-02T23:55:38.930] [INFO] dao.baseDao - query-ById:m_datasource,id:10
+[2018-09-02T23:56:33.100] [INFO] dao.baseDao - query-ById:m_datasource,id:11
